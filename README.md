@@ -11,6 +11,10 @@ Syntax](https://lucene.apache.org/core/6_5_0/queryparsersyntax.html) for more de
 
 ## Usage
 
+For Leiningen/Boot use `[percolate-clj "0.1.0"]` for other
+see [percolate-clj on clojars.org](https://clojars.org/percolate-clj).
+
+
 ```clojure
 
 (:require [clojure.test :refer :all]
